@@ -160,6 +160,12 @@ src/
 ---
 
 
+## **Acknowledgement**
+
+- The project is done under the supervision **Dr/ Mohsen Rashwan** in **Cairo University Faculty of Engineering** in the department of **Electronics and Electrical Communications Engineering**. 
+- The project took the full mark. 
+
+
 ## **Conclusion**
 
 The **Word Recognition System** is a powerful tool for recognizing and classifying spoken words based on audio features. It integrates **DTW** for audio comparison, **Librosa** for feature extraction, and **PyQt5** for an intuitive GUI. The system supports speaker classification and provides visual feedback to help users understand the comparison and classification process.
@@ -169,14 +175,7 @@ For more details and a complete guide on how to use the system, refer to the [vi
 ---
 
 ### **Contributors**
-- **Abd-El-Rahman Sabry**: Project Lead and Developer
-- **Collaborators**: [Sohila Akram]
+- **Abd-El-Rahman Sabry**
+- **Sohila Akram**
 
 ---
-```
-
-### Notes:
-- The section `[video guide](#)` should be replaced with the actual link to your video explaining the GUI.
-- Feel free to adjust any sections or add additional details that are specific to your project.
-
-This version is more comprehensive, organized, and polished. Let me know if you'd like further adjustments!
