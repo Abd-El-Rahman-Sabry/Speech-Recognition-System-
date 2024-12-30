@@ -173,6 +173,8 @@ The **Word Recognition System** is a powerful tool for recognizing and classifyi
 
 For more details and a complete guide on how to use the system, refer to the [video guide](https://drive.google.com/drive/folders/1-42G59hqbGSJxXrcHkwu9w4cHHOkRYvh) provided.
 
+The [reference](https://drive.google.com/drive/folders/1-5j2qvIZct5vZj1fJrKOQ_SU7Q6AriaE) audios for the dtw. 
+
 
 ## **Acknowledgement**
 
