@@ -160,10 +160,6 @@ src/
 ---
 
 
-## **Acknowledgement**
-
-- The project is done under the supervision **Dr/ Mohsen Rashwan** in **Cairo University Faculty of Engineering** in the department of **Electronics and Electrical Communications Engineering**. 
-- The project took the full mark. 
 
 
 ## **Conclusion**
@@ -172,10 +168,17 @@ The **Word Recognition System** is a powerful tool for recognizing and classifyi
 
 For more details and a complete guide on how to use the system, refer to the [video guide](https://drive.google.com/drive/folders/1-42G59hqbGSJxXrcHkwu9w4cHHOkRYvh) provided.
 
+
+## **Acknowledgement**
+
+- The project was done under the supervision **Dr/ Mohsen Rashwan** in **Cairo University Faculty of Engineering** in the department of **Electronics and Electrical Communications Engineering (EECE)**. 
+- The project took the full mark. 
+
+
+
 ---
 
-### **Contributors**
+## **Contributors**
 - **Abd-El-Rahman Sabry**
 - **Sohila Akram**
 
----
